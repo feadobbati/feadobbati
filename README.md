@@ -3,9 +3,9 @@
     Hi! I'm Federica! 
 </h1>
 
-- 🎓 Researcher - Deep Learning for Oceanography  
-- 🌊 Making wrong, but hopefully useful models for ocean's biogeochemistry
-- 🕸️ I've also an interest for Petri nets, algorithm complexity, and theoretical problems on concurrent systems
+- 🎓 Researcher in Deep Learning for Oceanography  
+- 🌊 Making wrong, but hopefully useful, models of ocean biogeochemistry  
+- 🕸️ I also have an interest in Petri nets, algorithmic complexity, and theoretical problems in concurrent systems  
 - 🗣 Italian (native) · English (fluent) · French (intermediate) · German & Dutch (basic)
 
 <hr>
