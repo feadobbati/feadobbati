@@ -1,6 +1,6 @@
 <img src="assets/gifs/banner.gif" title="Woouuuuusshhhhhhhh" width="100%" />
 <h1 align="left">
-    Hi! <img src="assets/gifs/hi.gif" alt="Saying Hi !" height="35" width="35" />, &nbsp; I'm Federica! 
+    Hi! I'm Federica! 
 </h1>
 
 - 🎓 Researcher - Deep Learning for Oceanography  
